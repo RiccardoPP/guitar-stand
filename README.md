@@ -1,6 +1,6 @@
 # Multiple guitar/bass stand
 
-This is a compact multiple guitar/bass stand with approximate dimensions of 37 x 21.5 x 21 mm.
+This is a compact multiple guitar/bass stand with approximate dimensions of 370 x 215 x 210 mm.
 
 My version was built using a 20 mm fir board, cut with a Creality Falcon2 Pro (40w) laser machine using parameters of 100 mm/min and 100% power.
 
